@@ -1,0 +1,6 @@
+{
+	"ip":"Sharkexam.aternos.me",
+	"port": "25565",
+	"name": "NTBot",
+	"auto-night-skip":"true"
+}
